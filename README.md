@@ -1,6 +1,6 @@
 # Cross-Gated Multi-Path Attention Fusion (CG-MAF) for Brain Tumor MRI Classification
 
-![Network Architecture](network.png)
+![Network Architecture](Network.png)
 
 This repository provides the complete source code, ablation experiments, and results for our research:
 
