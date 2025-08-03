@@ -43,7 +43,7 @@ We propose a novel hybrid deep learning framework combining **ResNet-50** and **
 
 ## Pre-trained Models & Results
 
-All trained models, Grad-CAM visualizations, and detailed results are available here:
+All trained models are available here:
 
 🔗 [Google Drive Link](https://drive.google.com/drive/folders/15f4Pq5fe9Gdwjfi9rGNAE_IG8NRuuuYF?usp=sharing)
 
@@ -94,12 +94,5 @@ Running the code will produce:
 ---
 
 ## Contact
-- **Muhammad Ahmad**: [ahmad@example.com]
-- **Hammad Musaddiq**: pytacodex@gmail.com
-
----
-
-## License
-MIT License
-
+- **Muhammad Ahmad**: [ahmajameel7171@gmail.com]
 ---
