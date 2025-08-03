@@ -5,7 +5,7 @@
 This repository provides the complete source code, ablation experiments, and results for our research:
 
 > **Cross-Gated Multi-Path Attention Fusion with Gate-Consistency Loss for Explainable Brain Tumor MRI Classification**  
-> _IEEE Access, 2025_
+
 
 ---
 
