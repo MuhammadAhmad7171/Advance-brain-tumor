@@ -91,25 +91,6 @@ Running the code will produce:
 3. **Grad-CAM visualizations** per tumor class
 4. **Best model checkpoints** per fold
 5. **Training logs** per epoch
-
----
-
-## Citation
-
-If you use this repository, please cite our paper:
-```bibtex
-@ARTICLE{Your_DOI,
-  author={Ahmad, Muhammad and Jin, Qi and Musaddiq, Hammad and Yaqub, Muhammad},
-  title={Cross-Gated Multi-Path Attention Fusion with Gate-Consistency Loss for Explainable Brain Tumor MRI Classification},
-  journal={IEEE Access},
-  year={2025},
-  volume={},
-  number={},
-  pages={},
-  doi={10.1109/ACCESS.2017.DOI}
-}
-```
-
 ---
 
 ## Contact
