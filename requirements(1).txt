@@ -1,0 +1,10 @@
+torch==2.1.0
+torchvision==0.16.0
+transformers==4.40.0
+scikit-learn==1.4.2
+matplotlib==3.8.4
+numpy==1.26.4
+pandas==2.2.2
+pytorch-grad-cam==1.4.0
+opencv-python==4.9.0.80
+tqdm==4.66.4
