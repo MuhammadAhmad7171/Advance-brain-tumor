@@ -1,11 +1,11 @@
 
-# Cross-Gated Multi-Path Attention Fusion (CG-MAF) for Brain Tumor MRI Classification
+# Explainable AI for Brain Tumor Classification using Cross-Gated Multi-Path Attention Fusion and Gate-Consistency Loss
 
 ![Network Architecture](Network.png)
 
 This repository provides the complete source code, ablation experiments, and results for our research:
 
-> **Cross-Gated Multi-Path Attention Fusion with Gate-Consistency Loss for Explainable Brain Tumor MRI Classification**  
+> **Explainable AI for Brain Tumor Classification using Cross-Gated Multi-Path Attention Fusion and Gate-Consistency Loss**  
 
 
 ---
@@ -95,5 +95,5 @@ Running the code will produce:
 ---
 
 ## Contact
-- **Muhammad Ahmad**: [ahmajameel7171@gmail.com]
+- **Muhammad Ahmad**: [ahmadjameel7171@gmail.com]
 ---
